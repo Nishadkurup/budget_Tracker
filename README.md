@@ -32,7 +32,7 @@ ___
 
  ## Installation
 
-The application can be viewed live on Heroku here:
+The application can be viewed live on Heroku here: [BUDGET_TRACKER](https://frozen-river-53581.herokuapp.com)
 
 For this application to run correctly on your local machine, run npm init -y in the working directory of your choice. Next, install the relevant dependencies by running npm i. Alternatively, you can install the dependencies one at a time .
 
