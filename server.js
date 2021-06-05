@@ -21,7 +21,7 @@ mongoose.connect(process.env.MONGODB_URI ||"mongodb://localhost/BudgetDB", {
   useUnifiedTopology: true,
   useCreateIndex: true
 });
-
+console.log(process.env.MONGODB_URI);
 // routes
 app.use(require("./routes/api.js"));
 
